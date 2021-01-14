@@ -1,3 +1,6 @@
+header{
+    background-color:#fffbf0;
+}
 .introduction h1 {
     font-size:80px;
     font-family: 'Bebas Neue', cursive;
@@ -41,4 +44,21 @@ main,.introduction p, .woman-jacket h5,.woman-jacket p,.man-card p   {
 }
 .bottom-part {
     margin-top:150px;
+}
+.bonus-part {
+    background-color:#6c757d
+}
+.bonus-part p {
+    margin-bottom:0;
+}
+.bonus-part ul {
+    list-style-type:none
+}
+li a {
+    text-decoration:none;
+    color:white;
+    font-size:14px;
+}
+li a:hover {
+    text-decoration:underline;
 }
