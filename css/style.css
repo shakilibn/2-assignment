@@ -1,0 +1,44 @@
+.introduction h1 {
+    font-size:80px;
+    font-family: 'Bebas Neue', cursive;
+    line-height: 80px;
+}
+main,.introduction p, .woman-jacket h5,.woman-jacket p,.man-card p   {
+    font-family: 'Roboto', sans-serif;
+}
+.card-full-body h5 {    
+    font-weight: 700;
+    font-size:24px;
+}
+ h2{
+    font-size:48px;
+    font-family: 'Bebas Neue', cursive;
+}
+.penguin-card {
+    border:0;
+}
+.penguin-card-img {
+    height:327px;
+    background-color: #f1f1f1;
+    border-radius:20px;
+}
+
+.penguin-card-footer h3 {
+    color:#FABE4C;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size:36px;
+}
+.penguin-card-footer {
+    border:0;
+}
+.my-button {
+    background-color:#8ea926;
+    border:0;
+}
+.bottom-part-left img {
+    width:78px;
+}
+.bottom-part {
+    margin-top:150px;
+}
